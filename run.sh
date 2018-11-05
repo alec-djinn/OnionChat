@@ -1,2 +1,2 @@
 #! /bin/bash
-python nodotjs/server.py staging
+python2 nodotjs/server.py staging
